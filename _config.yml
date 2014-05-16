@@ -1,0 +1,13 @@
+# Site settings
+title: Блог веб-разработчика
+author: Василий Гудошников
+username: vgoodvin
+email: vgoodvin@gmail.com
+skype: vgoodvin
+description: "Краткие заметки из повседневной жизни веб-разработчика."
+baseurl: ""
+url: "http://vgoodvin.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
